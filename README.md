@@ -1,13 +1,13 @@
 <div align="center">
 <h1>overview</h1>
 
-[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/overview)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/overview.svg)](https://github.com/eryajf/overview/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/overview)](https://github.com/eryajf/overview/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/overview)](https://github.com/eryajf/overview/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/overview)](https://github.com/eryajf/overview/blob/main/LICENSE)
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/overview.svg)](https://github.com/eryajf/overview)
+[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/overview.svg)](https://github.com)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/overview)](https://github.com)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/overview)](https://github.com)
+[![GitHub license](https://img.shields.io/github/license/eryajf/overview)](https://github.com)
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/overview.svg)](https://github.com)
 [![website eryajf.github.io/overview](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/overview.svg)](https://eryajf.github.io/overview/)
 
 <p align="center"> 📖 Vdoing博客主题静态部署模板 📖</p>
@@ -40,7 +40,7 @@
 
 ## 初始配置
 
-首先访问模板仓库：[overview](https://github.com/eryajf/overview)。点击此仓库右侧的 `Use this template`
+首先访问模板仓库：[overview](https://github.com)。点击此仓库右侧的 `Use this template`
 
 ![image_20220721_153908](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220721_153908.png)
 
