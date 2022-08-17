@@ -38,6 +38,11 @@ module.exports = {
   updateBar: { // 最近更新栏
     showToArticle: false, // 显示到文章页底部，默认true
   },
+  author: {
+    // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
+    name: '二丫讲梵', // 必需
+    link: 'https://github.com/eryajf', // 可选的
+  },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
     // iconfontCssFile: '//at.alicdn.com/t/font_1678482_u4nrnp8xp6g.css', // 可选，阿里图标库在线css文件地址，对于主题没有的图标可自由添加
@@ -45,12 +50,17 @@ module.exports = {
       {
         iconClass: 'icon-github',
         title: 'GitHub',
-        link: 'https://github.com/yizhiGao2018',
+        link: 'https://github.com/eryajf',
       },
       {
         iconClass: 'icon-youjian',
         title: '发邮件',
-        link: '945915123@qq.com',
+        link: 'mailto:eryajf@163.com',
+      },
+      {
+        iconClass: 'icon-gitee',
+        title: 'Gitee',
+        link: 'https://gitee.com/eryajf',
       },
     ],
   },
@@ -58,6 +68,6 @@ module.exports = {
     // 页脚信息
     createYear: 2022, // 博客创建年份
     copyrightInfo:
-      'Eryajf | <a href="https://github.com/yizhiGao2018" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      'Eryajf | <a href="https://github.com/eryajf/overview/blob/main/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
   }
 }
