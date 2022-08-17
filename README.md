@@ -1,6 +1,15 @@
 <div align="center">
 <h1>overview</h1>
 
+[![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/overview.svg)](https://github.com)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/overview)](https://github.com)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/overview)](https://github.com)
+[![GitHub license](https://img.shields.io/github/license/eryajf/overview)](https://github.com)
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/overview.svg)](https://github.com)
+[![website eryajf.github.io/overview](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/overview.svg)](https://eryajf.github.io/overview/)
+
 <p align="center"> 📖 Vdoing博客主题静态部署模板 📖</p>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="800"  height="3">
@@ -119,7 +128,7 @@ $ git clone git@github.com:lql95/lql-notes.git
 
 ![image_20220721_161147](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220721_161147.png)
 
-> 如果你想配置个人自定义域名，可参考此文档：[https://.github.io/HowToStartOpenSource/pages/06d15f/](https://.github.io/HowToStartOpenSource/pages/06d15f/)
+> 如果你想配置个人自定义域名，可参考此文档：[https://eryajf.github.io/HowToStartOpenSource/pages/06d15f/](https://eryajf.github.io/HowToStartOpenSource/pages/06d15f/)
 
 如果一路配置没问题，那么文章也应该会自动加载评论功能：
 
