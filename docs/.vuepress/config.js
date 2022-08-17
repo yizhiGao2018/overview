@@ -4,8 +4,8 @@ const themeConfig = require('./config/themeConfig.js');
 
 module.exports = {
   theme: 'vdoing', // 使用npm包主题
-  title: "overview",
-  description: 'vdoing博客主题模板',
+  title: "yizhiGao",
+  description: 'yizhiGao的主页',
   base: '/overview/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
